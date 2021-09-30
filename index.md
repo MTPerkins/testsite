@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Taylor Perkins
+
+About
+
+I am a research associate and adjunct instructor at the University of Tennessee at Chattanooga. My research employs population and quantiative genetics methods to study plant evolution and restore imperiled plant species. 
 
 <!-- You can use the [editor on GitHub](https://github.com/MTPerkins/testsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
