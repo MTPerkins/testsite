@@ -2,7 +2,7 @@
 
 ## About
 
-I am a research associate and adjunct instructor at the University of Tennessee at Chattanooga. I use population and quantitative genetics, greenhouse experiments, and field botany to study plant evolution and biodiversity. Currently, I'm using whole genome sequencing data to elucidate adaptive genetic variation in the immperiled tree species, American chestnut (_Castanea dentata_) and chinquapin (_Castanea pumila_ sensu lato). Previously, I worked as a lab manager for Dr. Jeff Ross-Ibarra at the University of California, Davis, where we studied the evolutionary genetics of adaptation and migration in maize (corn) and its wild relative, teosinte.
+I am a research associate and adjunct instructor at the University of Tennessee at Chattanooga. I use population and quantitative genetics, greenhouse experiments, and field botany to study plant evolution and biodiversity. Currently, I'm using whole genome sequencing data to elucidate adaptive genetic variation in the imperiled tree species, American chestnut (_Castanea dentata_) and chinquapin (_Castanea pumila_ sensu lato). Previously, I worked as a lab manager for Dr. Jeff Ross-Ibarra at the University of California, Davis, where we studied the evolutionary genetics of adaptation and migration in maize (corn) and its wild relative, teosinte.
 
 <!-- You can use the [editor on GitHub](https://github.com/MTPerkins/testsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
