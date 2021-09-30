@@ -1,6 +1,6 @@
-## Taylor Perkins
+# Taylor Perkins
 
-About
+## About
 
 I am a research associate and adjunct instructor at the University of Tennessee at Chattanooga. My research employs population and quantiative genetics methods to study plant evolution and restore imperiled plant species. 
 
