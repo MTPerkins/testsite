@@ -17,13 +17,21 @@ Syntax highlighted code block -->
 
 # Header 1
 ## Header 2
-### Header 3
 
+## Current Research Questions
+
+### Adaptive introgression in American chestnut (_Castanea dentata_) and chinquapin (_Castanea pumila_ sensu lato)
+
+
+### Ecological determinants of American chestnut and chinquapin distributions
 - Bulleted
 - List
 
 1. Numbered
 2. List
+
+### Genetic characterization of _Castanea alabamensis_
+
 
 **Bold** and _Italic_ and `Code` text
 
