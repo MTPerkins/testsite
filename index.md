@@ -16,11 +16,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block -->
 
 # Why I think Brooke is a cutie...
-Brooke is smart
-Brooke is kind
-Brooke is pretty
-And...
-She is a rope gun!
+##Brooke is smart
+##Brooke is kind
+##Brooke is pretty
+###And...
+##She is a rope gun!
 <!-- ## Header 2
 ### Header 3
 
