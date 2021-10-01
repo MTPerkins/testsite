@@ -18,7 +18,7 @@ Syntax highlighted code block -->
 # Header 1
 ## Header 2
 
-## Current Research Questions
+## Current Research Projects
 
 ### Adaptive introgression in American chestnut (_Castanea dentata_) and chinquapin (_Castanea pumila_ sensu lato)
 
