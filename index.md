@@ -1,6 +1,6 @@
 # Taylor Perkins
 
-https://github.com/MTPerkins/testsite/blob/7f1248e6d216982e751adff09f9b30718ac8e8cd/Publications
+[Publications](https://github.com/MTPerkins/testsite/blob/7f1248e6d216982e751adff09f9b30718ac8e8cd/Publications)
 
 ## About
 
