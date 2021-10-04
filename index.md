@@ -1,5 +1,7 @@
 # Taylor Perkins
 
+https://github.com/MTPerkins/testsite/blob/7f1248e6d216982e751adff09f9b30718ac8e8cd/Publications
+
 ## About
 
 I am a research associate and adjunct instructor at the University of Tennessee at Chattanooga. I use population and quantitative genetics, greenhouse experiments, and field botany to study plant evolution and biodiversity. Currently, I'm using whole genome sequencing data to elucidate adaptive genetic variation in the imperiled tree species American chestnut (_Castanea dentata_) and chinquapin (_Castanea pumila_ sensu lato). Previously, I worked as a lab manager for Dr. Jeff Ross-Ibarra at the University of California, Davis, where we studied the evolutionary genetics of adaptation in maize (corn) and its wild relatives, the teosintes.
